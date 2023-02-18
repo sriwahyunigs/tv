@@ -1,22 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1RmcR4Q/Indosiar.png" group-title="INDONESIA",INDOSIAR
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/T1RmcR4Q/Indosiar.png",INDOSIAR
 http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA", MNC TV
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV
+https://avi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QrLFt6R/antv.png", ANTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/QrLFt6R/antv.png", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV (vidio)
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dD39sBF/indosiar.png", Indosiar (vidio)
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xDrRwz/trans7.png", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
