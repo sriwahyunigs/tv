@@ -21,6 +21,21 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/99sD0QD/transtv.png", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png", GTV
+https://m-gtv.rctiplus.id/gtv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/sojdCIg.png", INEWS
+https://m-inews.rctiplus.id/inews-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/h2JP83B/metro.png", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/4fJGnnf/kompas.png", KOMPAS TV
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/tvone.png", TV ONE
+https://anevia115.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
@@ -32,12 +47,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4T5mPB/jtv.png", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4fJGnnf/kompas.png", KompasTV
-https://live-kg.jixie.media/live/kompastv_lhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h2JP83B/metro.png", MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9989sBn/mycinema.jpg", MyCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
