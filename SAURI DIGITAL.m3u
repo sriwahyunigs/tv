@@ -27,6 +27,9 @@ https://m-gtv.rctiplus.id/gtv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=http
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png", RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/sojdCIg.png", INEWS
 https://m-inews.rctiplus.id/inews-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
@@ -42,8 +45,14 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/bBTvnTZ/cnn.png", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/512px-Logo_nusantaratv.png", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/tzDSqSb/beritasatu.png", BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png", BERITASATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/sF1ZMLr/cnbc.png", CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -54,26 +63,59 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/761GcFrH/daai-tv.png", DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9989sBn/mycinema.jpg", MyCinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfHZTTh/rodjatv.png", Rodja TV
-https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQnY47s/tv9.jpg", TV9
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.ibb.co/pQnY47s/tv9.jpg", TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cwFShkw/tvmu.png", TV MU
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.ibb.co/cwFShkw/tvmu.png", TV MU
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.ibb.co/kgYjMMX/mqtv.png", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mta_tv_id.png", MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/bVN4zj2.png", HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png", BRTV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/rvu37xY.png", INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/xI1OebM.png", INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muadz-tv-id.png", MUADZ TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://nabawi.tv/wp-content/uploads/2021/10/cropped-logo-nabawitv.png", NABAWI TV
+https://alfa.kugo.id/nabawitv/nabawitv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/StyGIns.png", NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.ibb.co/YfHZTTh/rodjatv.png", RODJA TV
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/No3yJqs.png", SALAM TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunnah-jalan-pasti-tv-id.png", SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/XONWGjP.png", SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9989sBn/mycinema.jpg", MyCinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBbbM5f/tvri.png", TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GwzHQQ/ntv.png", NTV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgYjMMX/mqtv.png", MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p9JZ59/garudatv.jpg", GarudaTV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
