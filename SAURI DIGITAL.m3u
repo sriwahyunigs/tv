@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/T1RmcR4Q/Indosiar.png",INDOSIAR
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/dD39sBF/indosiar.png",INDOSIAR
 http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV
@@ -9,6 +9,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/QrLFt6R/antv.png", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg", RCTI
+http://103.167.167.5:8111/play/a01c/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
