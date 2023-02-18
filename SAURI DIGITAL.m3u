@@ -3,26 +3,25 @@
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/dD39sBF/indosiar.png",INDOSIAR
 http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV
-https://avi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png", MNC TV
+https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/QrLFt6R/antv.png", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png", RCTI
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png", RCTI
 https://m-rcti.rctiplus.id/rcti-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://nonton.wap.sh/id/009.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xDrRwz/trans7.png", Trans7
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/5xDrRwz/trans7.png", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99sD0QD/transtv.png", TransTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/99sD0QD/transtv.png", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBTvnTZ/cnn.png", CNN
