@@ -24,6 +24,9 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png", GTV
 https://m-gtv.rctiplus.id/gtv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/sojdCIg.png", INEWS
 https://m-inews.rctiplus.id/inews-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
@@ -36,17 +39,20 @@ https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/tvone.png", TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBTvnTZ/cnn.png", CNN
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/bBTvnTZ/cnn.png", CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sF1ZMLr/cnbc.png", CNBC
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/tzDSqSb/beritasatu.png", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/sF1ZMLr/cnbc.png", CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P4T5mPB/jtv.png", JTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/P4T5mPB/jtv.png", JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/761GcFrH/daai-tv.png", DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9989sBn/mycinema.jpg", MyCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -71,9 +77,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p9JZ59/garudatv.jpg", GarudaTV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tzDSqSb/beritasatu.png", BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZz3f8H/maleo.jpg", Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
