@@ -34,7 +34,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn.macan.tv/img/tvone.png", TV ONE
-https://anevia115.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+https://akm611a-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
