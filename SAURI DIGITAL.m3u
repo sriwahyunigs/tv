@@ -108,6 +108,18 @@ https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/XONWGjP.png", SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png", BIN BAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://www.pujatvaceh.com/wp-content/uploads/2020/09/272.png", PUJA TV ACEH
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://www.lyngsat.com/logo/tv/rr/radio-kita-tv-id.png", RADIOKITA TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/4pVuIrK.png", UFA 24
+https://h1.intechmedia.net/intech/ch27.m3u8
+
 #EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png", TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
@@ -198,14 +210,88 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 #EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumsel-id.png", TVRI SUMSEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
 
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamma-tv-id.png", DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/hnLpkOe.png", BAYU TV NGANJUK
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/8T0Da84.png", BETV
+https://h1.intechmedia.net/intech/ch30.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/ISuLAHc.png", DIGIONE
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/2VaZ1IJ.png", ELSHINTA TV
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/mYHiCJu.png", GPR TV
+https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/hh/huma-betang-tv-id.png", HUMA BETANG TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Jawa_Pos_TV_2021.png", JAWA POS TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/DRhbIjn.png", JAYA TV
+https://h1.intechmedia.net/intech/ch29.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png", JOGJA ISTIMEWA TV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/Jogjatv3d.png", JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png", MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/21oCqlc.png", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png", MALEO
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png", MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/e2F1zyU.png", PAL TV
+https://v3.siar.us/paltv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/rr/radar-cirebon-tv-id.png", RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/GOuGjwr.png", SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png", SEMARANG TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/2560px-TATV_logo.svg.png", TATV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tegar_tv_id.png", TEGAR TV
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/l1iL6NY.png", TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/X0AiQYN.png", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i.imgur.com/fXc15Jf.png", USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 group-title="AGAMA" tvg-logo="https://i.imgur.com/P3eqdb6.png", U CHANNEL
+http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
+
+#EXTINF:-1 group-title="AGAMA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/i_am_channel_id.png", I AM CHANNEL
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9989sBn/mycinema.jpg", MyCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5GwzHQQ/ntv.png", NTV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p9JZ59/garudatv.jpg", GarudaTV
 https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZz3f8H/maleo.jpg", Maleo
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+
