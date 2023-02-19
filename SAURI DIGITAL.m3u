@@ -108,11 +108,98 @@ https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-1 group-title="MUSLIM" tvg-logo="https://i.imgur.com/XONWGjP.png", SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png", TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-sport-id.png", TVRI SPORT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png", TVRI WORLD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-yogyakarta-id.png", TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-aceh-id.png", TVRI ACEH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-bali-id.png", TVRI BALI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-bangka-belitung-id.png", TVRI BABEL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-bengkulu-id.png", TVRI BENGKULU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-jakarta-id.png", TVRI DKI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-gorontalo-id.png", TVRI GORONTALO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-jambi-id.png", TVRI JAMBI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-jawa-barat-id.png", TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-jawa-tengah-id.png", TVRI JAWA TENGAH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-timur-id.png", TVRI JAWA TIMUR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-kalimantan-barat-id.png", TVRI KALBAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-kalimantan-selatan-id.png", TVRI KALSEL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-kalteng-id.png", TVRI KALTENG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-kaltim-id.png", TVRI KALTIM
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-lampung-id.png", TVRI LAMPUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-maluku-id.png", TVRI MALUKU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-nusa-tenggara-barat-id.png", TVRI NTB
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-nusa-tenggara-timur-id.png", TVRI NTT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-papua-id.png", TVRI PAPUA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-riau-id.png", TVRI RIAU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-barat-id.png", TVRI SULBAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-selatan-id.png", TVRI SULSEL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-tengah-id.png", TVRI TENGAH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tvri-sulawesi-tenggara-id.png", TVRI SULTRA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumbar-id.png", TVRI SUMBAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1 group-title="TVRI LENGKAP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumsel-id.png", TVRI SUMSEL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9989sBn/mycinema.jpg", MyCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBbbM5f/tvri.png", TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GwzHQQ/ntv.png", NTV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
