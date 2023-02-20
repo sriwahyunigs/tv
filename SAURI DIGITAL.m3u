@@ -15,17 +15,32 @@ https://m-rcti.rctiplus.id/rcti-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=ht
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/BBX11S3/sctv.png", SCTV [BACKUP]
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/5xDrRwz/trans7.png", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/5xDrRwz/trans7.png", TRANS 7 [BACKUP]
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/99sD0QD/transtv.png", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/99sD0QD/transtv.png", TRANS TV [BACKUP]
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png", GTV
 https://m-gtv.rctiplus.id/gtv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV [BACKUP]
+http://rr2.dens.tv/s/s08/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YXGcC3b/net.png", NET TV HD
+https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png", RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
