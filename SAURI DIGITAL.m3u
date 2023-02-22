@@ -604,8 +604,6 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="ANIPLUSHD.kr" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="DENSTV",ANIPLUS
 http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="animax.jp" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="DENSTV",ANIMAX
-http://210.210.155.37/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="MyKidzHD.id" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="DENSTV",MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="ToonzKids.id" tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="DENSTV",TOONZ KIDZ
@@ -614,8 +612,6 @@ http://210.210.155.37/x6bnqe/s/s14/index.m3u8
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="HITSmovies.id" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="DENSTV",HITS MOVIES
 http://210.210.155.37/dr9445/h/h38/index.m3u8
-#EXTINF:-1 tvg-id="axn.id" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="DENSTV",AXN
-http://210.210.155.37/dr9445/h/h141/index.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainmentHD.id" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="DENSTV",ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8 
 #EXTINF:-1 tvg-id="ROCKExtremeHD.id" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="DENSTV",ROCK ACTION
@@ -650,8 +646,6 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="MyFamilyChannel.id" tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="DENSTV",MY FAMILY CHANNEL
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-id="TV5MONDEStyleHD.id" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg" group-title="DENSTV",Monde STYLE
-http://210.210.155.37/dr9445/h/h01/index.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="DENSTV",FIGHT SPORTS
 http://210.210.155.37/dr9445/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTVHD.id" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="DENSTV",MOTORVISION
@@ -680,21 +674,8 @@ http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-id=".id" tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENSTV",MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
-#EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="DENSTV",RCTI
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932898-e3857ea87232a0758eada641e06f53db-0-96ed2247e418921ab39d7bb9b2f1fbff|referer=https://m.rctiplus.com/
-#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="DENSTV",MNCTV
-https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
-#EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://i.ibb.co/K2xHhRC/IMG-20221207-234208.png" group-title="DENSTV",GTV
-https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://m.rctiplus.com/
-#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.ibb.co/Wvp5KrJ/IMG-20221207-234346.png" group-title="DENSTV",INEWS
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|Referer=https://m.rctiplus.com/
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/1.jpg" group-title="Premium Channel",Learning & Knowledge
-http://210.210.155.37/session/30700fd0-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s36/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/117.jpg" group-title="Premium Channel",Food Channel
-http://210.210.155.37/session/9fd78ca4-7ebc-11ed-991d-c81f66f89318/x6bnqe/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/" group-title="Premium Channel",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -705,18 +686,5 @@ http://rr2.dens.tv/s/s50/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/123.jpg" group-title="Premium Channel",INWILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/120.jpg" group-title="Premium Channel",MotoRRacing TV
-http://210.210.155.37/session/a5422d9e-70ec-11ed-b03c-b82a72d63267/uq2663/h/h223/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/121.jpg" group-title="Premium Channel",HorizonSprots
-http://210.210.155.37/session/2b4fcf4a-70ed-11ed-b03c-b82a72d63267/uq2663/h/h282/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/" group-title="Premium Channel",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/79.jpg" group-title="Premium Channel",WION
-http://210.210.155.37/session/a0b36e74-5caa-11ed-8b6a-b82a72d63267/uq2663/h/h91/S1/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/104.jpg" group-title="Premium Channel",UATV
-http://210.210.155.37/session/bd8925c0-5caa-11ed-8b6a-b82a72d63267/uq2663/h/h101/S1/mnf.m3u8
-
